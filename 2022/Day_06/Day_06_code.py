@@ -1,4 +1,4 @@
-f = open("Advent of Code Python/2022/Day_06_input.txt", "r")
+f = open("anna-lcg/AdventOfCode/2022/Day_06/Day_06_input.txt", "r")
 #puzzle_input=()
 puzzle_input = f.read()
 #print(puzzle_input)

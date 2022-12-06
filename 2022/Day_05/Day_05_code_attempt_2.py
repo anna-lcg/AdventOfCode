@@ -1,6 +1,6 @@
 import copy
 
-f = open("Advent of Code Python/2022/Day_05_input.txt", "r")
+f = open("anna-lcg/AdventOfCode/2022/Day_05/Day_05_input.txt", "r")
 puzzle_input = f.readlines()
 
 break_line=puzzle_input.index('\n')
