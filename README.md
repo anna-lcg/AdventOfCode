@@ -21,15 +21,15 @@ Repository of my attempts at Advent of Code
 
 
 
-## **2015**
+## **[2015](https://github.com/anna-lcg/AdventOfCode/tree/main/2015)**
 ### *Python*
-[Day 01](https://github.com/anna-lcg/AdventOfCode/blob/main/2015/Day_01_code.py)
+[Day 01](https://github.com/anna-lcg/AdventOfCode/blob/main/2015/Day_01)
 
-[Day 02](https://github.com/anna-lcg/AdventOfCode/blob/main/2015/Day_02_code.py)
+[Day 02](https://github.com/anna-lcg/AdventOfCode/blob/main/2015/Day_02)
 
-[Day 03](https://github.com/anna-lcg/AdventOfCode/blob/main/2015/Day_03_code.py)
+[Day 03](https://github.com/anna-lcg/AdventOfCode/blob/main/2015/Day_03)
 
-[Day 04](https://github.com/anna-lcg/AdventOfCode/blob/main/2015/Day_04_code.py)
+[Day 04](https://github.com/anna-lcg/AdventOfCode/blob/main/2015/Day_04)
 ## **~~2016~~**
 ## **~~2017~~**
 ## **~~2018~~**
@@ -52,17 +52,17 @@ Day 02
 Day 03
 
 Day 04
-## **2022**
+## **[2022](https://github.com/anna-lcg/AdventOfCode/tree/main/2022)**
 ### *Python*
-[Day 01](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_01_code.py)
+[Day 01](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_01)
 
-[Day 02](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_02_code.py)
+[Day 02](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_02)
 
-[Day 03](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_03_code.py)
+[Day 03](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_03)
 
-[Day 04](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_04_code.py)
+[Day 04](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_04)
 
-[Day 05](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_05_code.py)
+[Day 05](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_05)
 
-[Day 06](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_06_code.py)
+[Day 06](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_06)
 
