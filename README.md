@@ -66,3 +66,4 @@ Day 04
 
 [Day 06](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_06)
 
+[Day 07](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_07)
