@@ -23,7 +23,7 @@ Day 02,
 Day 03, 
 Day 04
 
-## **2021**
+## **[2021](https://github.com/anna-lcg/AdventOfCode/tree/main/2021)**
 ### *Python*
 [Day 01](https://github.com/anna-lcg/AdventOfCode/blob/main/2021/Day_01), 
 [Day 02](https://github.com/anna-lcg/AdventOfCode/blob/main/2021/Day_02),
@@ -50,7 +50,7 @@ Day 13,
 Day 14,
 [Day 15](https://github.com/anna-lcg/AdventOfCode/blob/main/2022/Day_15)
 
-## **2023**
+## **[2023](https://github.com/anna-lcg/AdventOfCode/tree/main/2023)**
 ### *Python*
 [Day 01](https://github.com/anna-lcg/AdventOfCode/blob/main/2023/Day_01), 
 [Day 02](https://github.com/anna-lcg/AdventOfCode/blob/main/2023/Day_02)
