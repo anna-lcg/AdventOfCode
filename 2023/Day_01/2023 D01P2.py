@@ -77,4 +77,3 @@ for i in calibration:
     individuals.append(thisline2)
     #individuals.append(int(this_line[0])*10 + int(this_line[-1]))
 print (sum(individuals))
-print(len(individuals))
