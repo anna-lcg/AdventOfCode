@@ -4,7 +4,7 @@ Repository of my attempts at Advent of Code
 ## Contents:
  [2015](https://github.com/anna-lcg/AdventOfCode#2015),  ~~[2016](https://github.com/anna-lcg/AdventOfCode#2016)~~,  ~~[2017](https://github.com/anna-lcg/AdventOfCode#2017)~~,  ~~[2018](https://github.com/anna-lcg/AdventOfCode#2018)~~,  ~~[2019](https://github.com/anna-lcg/AdventOfCode#2019)~~
  
- [2020](https://github.com/anna-lcg/AdventOfCode#2020),  [2021](https://github.com/anna-lcg/AdventOfCode#2021),  [2022](https://github.com/anna-lcg/AdventOfCode#2022), 
+ [2020](https://github.com/anna-lcg/AdventOfCode#2020),  [2021](https://github.com/anna-lcg/AdventOfCode#2021),  [2022](https://github.com/anna-lcg/AdventOfCode#2022), [2023](https://github.com/anna-lcg/AdventOfCode#2023),
 
 
 
