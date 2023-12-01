@@ -9,36 +9,35 @@ puzzle_input = f.readlines()
 #print (puzzle_input)
 #puzzle_input =puzzle_input.split("\n")
 
-  digitlist=[1,2,3,4,5,6,7,8,9,0,'one','two','three','four','five','six','seven','eight','nine','zero']
-  digitdic={
-      '1':1,
-      'one':1,
-      '2':2,
-      'two':2,
-      '3':3,
-      'three':3,
-      '4':4,
-      'four':4,
-      '5':5,
-      'five':5,
-      '6':6,
-      'six':6,
-      '7':7,
-      'seven':7,
-      '8':8,
-      'eight':8,
-      '9':9,
-      'nine':9,
-      '0':0,
-      'zero':0,
-  }
+digitlist=['1','2','3','4','5','6','7','8','9','0','one','two','three','four','five','six','seven','eight','nine','zero']
+digitdic={
+    '1':1,
+    'one':1,
+    '2':2,
+    'two':2,
+    '3':3,
+    'three':3,
+    '4':4,
+    'four':4,
+    '5':5,
+    'five':5,
+    '6':6,
+    'six':6,
+    '7':7,
+    'seven':7,
+    '8':8,
+    'eight':8,
+    '9':9,
+    'nine':9,
+    '0':0,
+    'zero':0,
+}
 
 def Part_1(calibration):
   individuals =[] 
   for i in calibration:
       this_line=[]
       for x in i:
-          #if x in digitlist:
           if x.isdigit():
               this_line.append(x)
   
@@ -48,7 +47,6 @@ def Part_1(calibration):
 def Part_2(calibration):
   individuals=[]
   for i in calibration:
-      this_line=[]
       digits=[]
       places=[]
       thisline2=0
