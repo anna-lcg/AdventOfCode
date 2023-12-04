@@ -54,6 +54,6 @@ Day 14,
 ### *Python*
 [Day 01](https://github.com/anna-lcg/AdventOfCode/blob/main/2023/Day_01), 
 [Day 02](https://github.com/anna-lcg/AdventOfCode/blob/main/2023/Day_02),
-Day 03,
+[Day 03](https://github.com/anna-lcg/AdventOfCode/blob/main/2023/Day_03),
 [Day 04](https://github.com/anna-lcg/AdventOfCode/blob/main/2023/Day_04)
 
